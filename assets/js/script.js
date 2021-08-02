@@ -16,11 +16,12 @@ document.addEventListener("DOMContentLoaded", function() {
       }
 })
 
-function runGame() {
+function runGame() { urs
 
 }
 
-function checkAnswer() {
+function checkAnswer() {elf
+    
 
 }
 
